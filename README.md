@@ -19,6 +19,7 @@ I'm Alexander Chernov, a software developer with a passion for crafting elegant 
 ## Get In Touch
 
 📫 Email: farneser1@gmail.com
+
 💬 Telegram: [@farneser](https://t.me/farneser)
 
 Let's connect and collaborate on exciting projects!
