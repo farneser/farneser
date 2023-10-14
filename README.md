@@ -13,7 +13,7 @@ explore new technologies and contribute to exciting projects
 
 ## Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farneser&layout=compact&theme=transparent)
 
 - Languages: Python, C#, Java
 - Frameworks: AspNet
