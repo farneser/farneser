@@ -1,6 +1,6 @@
 # Alexander Chernov
 
-Beginner Backend Developer
+Junior Java Backend Developer
 
 👋 Welcome to my GitHub profile!
 
