@@ -6,11 +6,14 @@ Beginner Backend Developer
 
 ## About Me
 
-I'm Alexander Chernov, a software developer with a passion for crafting elegant solutions to complex problems. I love to explore new technologies and contribute to exciting projects
+I'm Alexander Chernov, a software developer with a passion for crafting elegant solutions to complex problems. I love to
+explore new technologies and contribute to exciting projects
 
 🌱 Currently diving deep into web development and honing my skills.
 
 ## Tech Stack
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
 
 - Languages: Python, C#, Java
 - Frameworks: AspNet
