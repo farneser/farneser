@@ -15,9 +15,9 @@ explore new technologies and contribute to exciting projects
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farneser&layout=compact&theme=transparent)
 
-- Languages: Python, C#, Java
-- Frameworks: AspNet
-- Tools: Git, Docker
+- Languages: Java, Python, C#
+- Frameworks: Spring, AspNet
+- Tools: Git, Docker, FlyWay
 
 ## Get In Touch
 
@@ -26,3 +26,7 @@ explore new technologies and contribute to exciting projects
 💬 Telegram: [@farneser](https://t.me/farneser)
 
 Let's connect and collaborate on exciting projects!
+
+## Stats
+
+ [![](https://visitcount.itsvg.in/api?id=farneser&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
