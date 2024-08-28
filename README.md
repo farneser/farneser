@@ -6,7 +6,7 @@ Junior Java Backend Developer
 
 ## About Me
 
-I'm Alexander Chernov, a software developer with a passion for crafting elegant solutions to complex problems. I love to
+I'm Alexander Chernov, a software developer that crafting elegant solutions to complex problems. I love to
 explore new technologies and contribute to exciting projects
 
 🌱 Currently diving deep into web development and honing my skills.
